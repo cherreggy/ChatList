@@ -1,0 +1,51 @@
+{
+  "id": "3947201",
+  "name": "聊天机器人",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "936767",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "5483280",
+      "name": "尴尬",
+      "font_class": "ganga",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "5483283",
+      "name": "开心",
+      "font_class": "kaixin",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "5483285",
+      "name": "哭",
+      "font_class": "ku",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "5483295",
+      "name": "笑哭",
+      "font_class": "xiaoku",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "5483302",
+      "name": "难过",
+      "font_class": "nanguo",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    }
+  ]
+}
